@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="16labs" width="100%">
 </p>
 
-I build AI agents that do real work for people: they read your inbox and draft the replies, watch a chain and message you when something moves, open the pull request and wait for your OK before anything ships. Home is the **TON** community. Everything I make ships under **16labs**, the studio I'm building into a company.
+Building in AI. Agents mostly: small programs that read, watch, draft and act for the person who owns them, and ask before they do anything that matters. Home is the **TON** community. Everything I make ships under **16labs**, the studio I'm building into a company.
 
 ### Building
 
