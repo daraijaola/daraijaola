@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.svg" alt="Micheal · 16labs" width="100%">
+  <img src="banner.svg" alt="16labs" width="100%">
 </p>
 
-I build autonomous agents and the payment rails they run on, mostly at hackathons, mostly shipped to mainnet before the deadline. Home is the **TON** community; the work spans Starknet, Solana, Sui and Stellar. Everything ships under **16labs**, the studio I'm building into a company.
+I build AI agents that do real work for people: they read your inbox and draft the replies, watch a chain and message you when something moves, open the pull request and wait for your OK before anything ships. Home is the **TON** community. Everything I make ships under **16labs**, the studio I'm building into a company.
 
 ### Building
 
@@ -21,4 +21,4 @@ More in the [repositories](https://github.com/daraijaola?tab=repositories): seal
 
 [Michealijaola@outlook.com](mailto:Michealijaola@outlook.com) · [@Micheal_node](https://x.com/Micheal_node) · [16labs.xyz](https://16labs.xyz)
 
-<sub>Open to teaming up on hackathons and to early conversations about 16labs.</sub>
+<sub>Open to collaborations, and to early conversations about 16labs.</sub>
