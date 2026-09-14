@@ -6,7 +6,7 @@ I build autonomous agents and the payment rails they run on, mostly at hackathon
 
 ### Selected work
 
-| | | |
+| Project | What it is | Built with |
 |---|---|---|
 | **[agentr](https://github.com/daraijaola/agentr)** | AI agent factory for TON and Telegram: agents that hold wallets, call real tools and live inside chat. | TypeScript · TON · Telegram |
 | **[Runbox](https://github.com/daraijaola/Runbox)** | Pay-per-use isolated code execution for agents. Two npm packages (`runbox-client`, `runbox-mcp`), metered with x402 and the Machine Payment Protocol on Stellar. | TypeScript · Stellar · MCP |
