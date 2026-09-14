@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Micheal — 16labs" width="100%">
+  <img src="banner.svg" alt="Micheal — 16labs. I build AI agents that do real work for people." width="100%">
 </p>
 
 I build autonomous agents and the payment rails they run on, mostly at hackathons, mostly shipped to mainnet before the deadline. Home is the **TON** community; the work spans Starknet, Solana, Sui and Stellar. Everything ships under **16labs**, the studio I'm building into a company.

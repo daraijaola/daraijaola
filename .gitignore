@@ -1,0 +1,6 @@
+plate.png
+build-banner.mjs
+shotsvg.mjs
+banner-preview.png
+*.png
+!avatar.png
